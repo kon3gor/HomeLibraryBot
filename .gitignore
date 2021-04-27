@@ -1,0 +1,5 @@
+.gradle
+build
+/src/main/resources
+/src/main/kotlin/org/eshendo/bot/Constants.kt
+/src/main/java
